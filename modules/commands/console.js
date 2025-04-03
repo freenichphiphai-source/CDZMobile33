@@ -1,4 +1,4 @@
-const chalk = require('chalk');
+/*const chalk = require('chalk');
 const moment = require("moment-timezone");
 const SPAM_THRESHOLD = 10; // Số lượng tin nhắn để xác định spam
 const SPAM_TIMEFRAME = 3000; // Thời gian trong ms để kiểm tra spam (3 giây)
